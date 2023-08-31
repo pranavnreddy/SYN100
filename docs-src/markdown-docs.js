@@ -4,9 +4,9 @@ module.exports = {
     toc: true
   },
   site: {
-    // editSourceUrl: 'https://github.com/<git-org>/<git-repository>/tree/master/SYN100',
+    // editSourceUrl: 'https://github.com/pranavnreddy/SYN100/tree/main',
     title: 'SYN 100',
-    // url: 'https://<git-org>.github.io/<git-repository>/'
+    // url: 'https://pranavnreddy.github.io/SYN100/'
   },
   template: {
     name: 'default',
@@ -21,7 +21,7 @@ module.exports = {
     favicon: '/SYNbol_favicon.png',
     finePrint: '<p>This is some mighty find print. Yes, some mighty fine print.</p>',
     footerLinks: [
-      { title: 'Github', href: 'https://github.com/<git-org>/<git-repository>' }
+      { title: 'Github', href: 'https://github.com/pranavnreddy/SYN100/' }
     ]
   }
 }
