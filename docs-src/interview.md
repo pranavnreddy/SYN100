@@ -3,8 +3,7 @@ title: An Interview with Environmental Economics Professor Mark Jacobsen
 ---
 
 # Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PJom6b7SNs4?si=4CmPE57RXA6zGdLN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lUnfGULYUuw?si=qm2iGehebXZFvAxR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Transcript
 
