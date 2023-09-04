@@ -3,4 +3,4 @@ title: Advertisement Graphic
 toc: false
 ---
 
-hello world
+![Graphic for ECE newsletter](Graphic.png)

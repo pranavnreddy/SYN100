@@ -19,7 +19,7 @@ module.exports = {
       brandColorDark: '#00382F'
     },
     favicon: '/SYNbol_favicon.png',
-    finePrint: '<p>This is some mighty find print. Yes, some mighty fine print.</p>',
+    finePrint: '<p>Created by Clayton Borror and Pranav Reddy for Synthesis 100 with Professor Leslie Rose Meyer</p>',
     footerLinks: [
       { title: 'Github', href: 'https://github.com/pranavnreddy/SYN100/' }
     ]
