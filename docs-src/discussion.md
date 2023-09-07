@@ -14,3 +14,8 @@ We did not have time to interview more professors that we believed would give a 
 
 ## How could yours or a future SYN 100 team continue this project? What should they be aware of if they were to continue this project? 
 We hope to continue building the website and interview a diverse range of researchers/professors from different fields to get a wider perspective on what can be done to spread awareness about unethical harvesting practices of raw materials. We hope to refine our website and eventually get it in the electrical/computer engineering newsletter to get feedback from our intended audience. I would hope that if a SYN100 team continued this project that they would use their social networks to interview with other researchers/professors who are familiar with this field.
+
+From a more technical perspective, we would also like to fix some of the bugs, especially on the mobile version, and add more interactive elements that could let users engage with our research better, such as a quiz, game, or some other active element.
+
+## Optional: recommendations/ further directions 
+To completely finish up this project during the summer session we could have used a bit more time or more people in our group. If someone were to pick up from where we left off, I’d recommend having someone who is familiar with GitHub. It would also be nice to have a diverse group of majors to see the different perspectives they or their professors might have related to the topic.
