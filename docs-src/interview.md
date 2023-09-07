@@ -129,7 +129,7 @@ Thank you. Bye.
 
 
 
-## Further works from Professor Jacobsen
+# Further works from Professor Jacobsen
 
 [Professor Jacobsen's website](https://econweb.ucsd.edu/~m3jacobs/)
 [A recent paper of his on used vehicle markets](https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=352754&Lab=OTAQ)
